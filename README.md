@@ -10,9 +10,9 @@ This repository hosts the implementation for the Monet Style Transfer Competitio
 Using a CycleGAN architecture, our solution achieved high-quality style transfer. Performance was evaluated using Fréchet Inception Distance (FID) and Memorization-informed Fréchet Inception Distance (MiFID).
 
 Leaderboard Result:  
-2nd Place on Kaggle  
-FID: 51.6575  
-MiFID: 0.2203
+- 2nd Place on Kaggle  
+- FID: 51.6575  
+- MiFID: 0.2203
 
 We generated 933 Monet-style images from 7,038 photographs and 260 Monet paintings, submitted as `Team_28.zip` with `submission.csv`.
 
